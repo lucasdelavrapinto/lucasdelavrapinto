@@ -38,9 +38,3 @@ Transformo processos manuais lentos em fluxos automatizados de alta performance.
 - 🌐 [Meu Site Pessoal](http://lucasdelavrapinto.com/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucasdelavrapinto/)
 - 📧 [lucasdelavrapinto@gmail.com](mailto:lucasdelavrapinto@gmail.com)
-
----
-
-### 📊 Estatísticas
-![Estatísticas do Lucas](https://github-readme-stats.vercel.app/api?username=lucasdelavrapinto&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdelavrapinto&layout=compact&theme=radical)
